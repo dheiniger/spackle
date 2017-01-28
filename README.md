@@ -1,14 +1,12 @@
 # spackle
 
-A Clojure library designed to ... well, that part is up to you.
+Web scraper for https://redeemernorwalk.org/
 
 ## Usage
 
-FIXME
+Maintains data scraped from https://redeemernorwalk.org/.  The data is intended to be exposed by a web service to provide an API for mobile applications.
 
 ## License
-
-Copyright © 2017 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
